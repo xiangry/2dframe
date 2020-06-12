@@ -1,0 +1,48 @@
+
+jiao2.png
+size: 379,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 0, 218
+  size: 90, 258
+  orig: 90, 258
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 0, 104
+  size: 114, 225
+  orig: 114, 225
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: false
+  xy: 134, 0
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: false
+  xy: 249, 23
+  size: 108, 68
+  orig: 108, 68
+  offset: 0, 0
+  index: -1
+jiao5
+  rotate: false
+  xy: 0, 1
+  size: 134, 103
+  orig: 134, 103
+  offset: 0, 0
+  index: -1
+jiao6
+  rotate: false
+  xy: 258, 91
+  size: 121, 217
+  orig: 121, 217
+  offset: 0, 0
+  index: -1

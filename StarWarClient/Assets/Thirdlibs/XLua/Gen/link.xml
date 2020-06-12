@@ -1,0 +1,10 @@
+﻿
+
+<linker>
+
+	<assembly fullname="Assembly-CSharp">
+	    <type fullname="PlayAction" preserve="all"/>
+		
+	</assembly>
+
+</linker>

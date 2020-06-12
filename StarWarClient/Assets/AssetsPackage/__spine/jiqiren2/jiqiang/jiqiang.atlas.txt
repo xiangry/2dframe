@@ -1,0 +1,48 @@
+
+jiqiang.png
+size: 546,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiqiang
+  rotate: false
+  xy: 0, 0
+  size: 404, 236
+  orig: 404, 236
+  offset: 0, 0
+  index: -1
+qianghuo_00025
+  rotate: false
+  xy: 478, 183
+  size: 50, 53
+  orig: 100, 90
+  offset: 8, 17
+  index: -1
+qianghuo_00026
+  rotate: true
+  xy: 404, 16
+  size: 72, 73
+  orig: 100, 90
+  offset: 14, 8
+  index: -1
+qianghuo_00027
+  rotate: false
+  xy: 404, 162
+  size: 74, 74
+  orig: 100, 90
+  offset: 17, 8
+  index: -1
+qianghuo_00028
+  rotate: false
+  xy: 475, 89
+  size: 71, 73
+  orig: 100, 90
+  offset: 21, 8
+  index: -1
+qianghuo_00029
+  rotate: false
+  xy: 404, 88
+  size: 71, 74
+  orig: 100, 90
+  offset: 22, 8
+  index: -1

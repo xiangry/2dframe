@@ -1,0 +1,13 @@
+
+dun.png
+size: 172,445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 0, 0
+  size: 172, 445
+  orig: 172, 445
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+JQR_1.png
+size: 865,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun
+  rotate: true
+  xy: 0, 116
+  size: 44, 231
+  orig: 44, 231
+  offset: 0, 0
+  index: -1
+houshou
+  rotate: false
+  xy: 0, 0
+  size: 182, 116
+  orig: 182, 116
+  offset: 0, 0
+  index: -1
+jishen
+  rotate: false
+  xy: 457, 8
+  size: 408, 361
+  orig: 408, 361
+  offset: 0, 0
+  index: -1
+jiyi
+  rotate: false
+  xy: 182, 1
+  size: 181, 105
+  orig: 181, 105
+  offset: 0, 0
+  index: -1
+pigu
+  rotate: true
+  xy: 243, 106
+  size: 173, 195
+  orig: 173, 195
+  offset: 0, 0
+  index: -1
+qianshou
+  rotate: false
+  xy: 0, 160
+  size: 243, 119
+  orig: 243, 119
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 0, 279
+  size: 457, 90
+  orig: 464, 94
+  offset: 4, 2
+  index: -1
+yuan
+  rotate: false
+  xy: 363, 14
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jiao1.png
+size: 532,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houjiao
+  rotate: false
+  xy: 0, 119
+  size: 285, 106
+  orig: 285, 106
+  offset: 0, 0
+  index: -1
+houtui
+  rotate: true
+  xy: 410, 117
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+houxiaotui
+  rotate: false
+  xy: 285, 108
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+qianjiao
+  rotate: false
+  xy: 0, 13
+  size: 284, 106
+  orig: 284, 106
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: true
+  xy: 284, 0
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+qianxiaotui
+  rotate: false
+  xy: 410, 4
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1

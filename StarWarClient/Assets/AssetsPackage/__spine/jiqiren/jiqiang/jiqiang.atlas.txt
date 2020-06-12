@@ -1,0 +1,13 @@
+
+jiqiang.png
+size: 370,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiqiang
+  rotate: false
+  xy: 0, 0
+  size: 370, 217
+  orig: 404, 236
+  offset: 31, 11
+  index: -1
